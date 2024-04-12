@@ -16,7 +16,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWKoOWFpeaIkeeahOmikemBk3QubWUvQ01MaXVz
 //机场信息，可多个，也可为0
 const urls = [
 	'https://cc.zhikui.dns.army/1f7fb51d-acf4-4f59-aeb1-cbc80eed8506',
-	'http://yy.yudou66.top/202403/20240331bg7ase.txt',
+	'https://sub.xf.free.hr/auto',
+	'https://hy2sub.pages.dev',
 	// 添加更多订阅,支持base64
 ];
 
